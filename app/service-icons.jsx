@@ -1,0 +1,3 @@
+import { CarFront, Wrench, Zap, Snowflake, Building2, BriefcaseBusiness, PhoneCall, CalendarDays, MessageSquareText, FileText, UserRound, UsersRound, Settings2 } from 'lucide-react';
+const icons={car:CarFront,plumbing:Wrench,bolt:Zap,cooling:Snowflake,building:Building2,business:BriefcaseBusiness,phone:PhoneCall,calendar:CalendarDays,message:MessageSquareText,summary:FileText,person:UserRound,transfer:UsersRound,setup:Settings2};
+export default function ServiceIcon({type='phone',className=''}){const Icon=icons[type]||PhoneCall;return <span className={`service-icon ${className}`} aria-hidden="true"><Icon size={30} strokeWidth={1.8}/></span>}

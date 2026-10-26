@@ -1,0 +1,182 @@
+{
+  "mechanic": {
+    "src": "/audio/mechanic-sample-5680838aaa.mp3",
+    "captions": "/audio/mechanic-sample-5680838aaa.vtt",
+    "transcript": "/audio/mechanic-sample-5680838aaa.txt",
+    "duration": 87.424,
+    "cues": [
+      {
+        "start": 0.16,
+        "end": 7.223
+      },
+      {
+        "start": 7.523,
+        "end": 11.133
+      },
+      {
+        "start": 11.473,
+        "end": 16.361
+      },
+      {
+        "start": 16.661,
+        "end": 22.182
+      },
+      {
+        "start": 22.522,
+        "end": 28.608
+      },
+      {
+        "start": 28.908,
+        "end": 35.107
+      },
+      {
+        "start": 35.447,
+        "end": 40.921
+      },
+      {
+        "start": 41.221,
+        "end": 49.071
+      },
+      {
+        "start": 49.411,
+        "end": 57.42
+      },
+      {
+        "start": 57.72,
+        "end": 63.53
+      },
+      {
+        "start": 63.87,
+        "end": 69.471
+      },
+      {
+        "start": 69.771,
+        "end": 74.628
+      },
+      {
+        "start": 74.968,
+        "end": 87.004
+      }
+    ]
+  },
+  "plumber": {
+    "src": "/audio/plumber-sample-d4a01b5413.mp3",
+    "captions": "/audio/plumber-sample-d4a01b5413.vtt",
+    "transcript": "/audio/plumber-sample-d4a01b5413.txt",
+    "duration": 94.332,
+    "cues": [
+      {
+        "start": 0.16,
+        "end": 7.434
+      },
+      {
+        "start": 7.734,
+        "end": 12.593
+      },
+      {
+        "start": 12.933,
+        "end": 20.687
+      },
+      {
+        "start": 20.987,
+        "end": 26.969
+      },
+      {
+        "start": 27.309,
+        "end": 32.473
+      },
+      {
+        "start": 32.773,
+        "end": 38.162
+      },
+      {
+        "start": 38.502,
+        "end": 43.206
+      },
+      {
+        "start": 43.506,
+        "end": 47.771
+      },
+      {
+        "start": 48.111,
+        "end": 57.984
+      },
+      {
+        "start": 58.284,
+        "end": 64.462
+      },
+      {
+        "start": 64.802,
+        "end": 71.343
+      },
+      {
+        "start": 71.643,
+        "end": 79.507
+      },
+      {
+        "start": 79.847,
+        "end": 93.912
+      }
+    ]
+  },
+  "electrician": {
+    "src": "/audio/electrician-sample-2975a6aea0.mp3",
+    "captions": "/audio/electrician-sample-2975a6aea0.vtt",
+    "transcript": "/audio/electrician-sample-2975a6aea0.txt",
+    "duration": 100.771,
+    "cues": [
+      {
+        "start": 0.16,
+        "end": 7.195
+      },
+      {
+        "start": 7.495,
+        "end": 11.287
+      },
+      {
+        "start": 11.627,
+        "end": 17.302
+      },
+      {
+        "start": 17.602,
+        "end": 23.548
+      },
+      {
+        "start": 23.888,
+        "end": 29.424
+      },
+      {
+        "start": 29.724,
+        "end": 33.894
+      },
+      {
+        "start": 34.234,
+        "end": 43.985
+      },
+      {
+        "start": 44.285,
+        "end": 52.204
+      },
+      {
+        "start": 52.544,
+        "end": 59.215
+      },
+      {
+        "start": 59.515,
+        "end": 66.953
+      },
+      {
+        "start": 67.293,
+        "end": 77.443
+      },
+      {
+        "start": 77.743,
+        "end": 84.72
+      },
+      {
+        "start": 85.06,
+        "end": 100.351
+      }
+    ]
+  }
+}

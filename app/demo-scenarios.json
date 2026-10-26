@@ -1,0 +1,188 @@
+[
+  {
+    "id": "mechanic",
+    "name": "Mechanic",
+    "business": "Sample Auto Workshop",
+    "request": "Logbook service and brake check",
+    "detail": "Vehicle & service details · Address · Phone · Drop-off request",
+    "messages": [
+      [
+        "assistant",
+        "Thanks for calling Sample Auto Workshop. I’m the AI receptionist. How can I help?"
+      ],
+      [
+        "caller",
+        "Hi, I’d like a logbook service and a brake check next Tuesday."
+      ],
+      [
+        "assistant",
+        "Certainly. What’s your name, and the car’s make, model and year?"
+      ],
+      [
+        "caller",
+        "I’m Alex Morgan. It’s a twenty nineteen Toyota Corolla, with eighty thousand kilometres."
+      ],
+      [
+        "assistant",
+        "What have you noticed with the brakes? Are any warning lights on, and what’s the registration?"
+      ],
+      [
+        "caller",
+        "They squeak a little. No warning lights. The registration is D E M O, zero one."
+      ],
+      [
+        "assistant",
+        "Thanks. What’s your full address, including suburb, and your callback number?"
+      ],
+      [
+        "caller",
+        "Twelve Example Street, St Albans. My number is zero four nine one, five seven zero, zero zero six."
+      ],
+      [
+        "assistant",
+        "That’s twelve Example Street, St Albans, and the number ending zero zero six. Have I got that right?"
+      ],
+      [
+        "caller",
+        "Yes, that’s right. Could I drop the car off around eight on Tuesday? I can leave it with you."
+      ],
+      [
+        "assistant",
+        "I’ll note that preference. Would you like a text once the workshop confirms a time?"
+      ],
+      [
+        "caller",
+        "Yes, please. And could they let me know the estimated cost before starting?"
+      ],
+      [
+        "assistant",
+        "Of course. I’ll pass on the service, brake check and drop-off request. The team will confirm availability and pricing before booking. Thanks, Alex."
+      ]
+    ],
+    "summary": "Alex Morgan · 12 Example Street, St Albans · 0491 570 006. 2019 Toyota Corolla, 80,000 km, registration DEMO01. Logbook service and squeaking-brake check; no warning lights reported. Tuesday around 8 am drop-off preferred; car can be left. SMS requested after confirmation. Workshop to confirm availability and estimated pricing before booking or work."
+  },
+  {
+    "id": "plumber",
+    "name": "Plumber",
+    "business": "Sample Local Plumbing",
+    "request": "Kitchen tap repair enquiry",
+    "detail": "Leak & urgency details · Job address · Phone · Access & timing",
+    "messages": [
+      [
+        "assistant",
+        "Thanks for calling Sample Local Plumbing. I’m the AI receptionist. How can I help today?"
+      ],
+      [
+        "caller",
+        "Hi, our kitchen mixer tap keeps dripping. Could a plumber repair it this week?"
+      ],
+      [
+        "assistant",
+        "I can take the details. Is the water dripping into the sink or leaking underneath? Is there any flooding?"
+      ],
+      [
+        "caller",
+        "It’s just dripping into the sink. There’s no flooding or leak underneath, and the other taps are fine."
+      ],
+      [
+        "assistant",
+        "Understood. May I have your name and the full address where the work is needed?"
+      ],
+      [
+        "caller",
+        "I’m Sam Taylor. It’s unit two, twenty-five Example Avenue, Footscray."
+      ],
+      [
+        "assistant",
+        "Thank you. What’s the best phone number for the plumber to call you on?"
+      ],
+      [
+        "caller",
+        "It’s zero four nine one, five seven zero, one five six."
+      ],
+      [
+        "assistant",
+        "That’s unit two, twenty-five Example Avenue, Footscray, and the number ending one five six. Are you the owner, or is it a rental?"
+      ],
+      [
+        "caller",
+        "I’m the owner. I can approve the repair. I’d prefer Thursday afternoon if someone is available."
+      ],
+      [
+        "assistant",
+        "I’ll note Thursday afternoon. Are there any access restrictions, and is parking available?"
+      ],
+      [
+        "caller",
+        "Any time after two is good. The gate will be unlocked, and there’s space in the driveway. Could they explain the call-out fee first?"
+      ],
+      [
+        "assistant",
+        "Certainly. I’ll pass on the tap repair and access details. The plumber will call to discuss availability, the call-out fee and any parts before confirming a visit. Thanks, Sam."
+      ]
+    ],
+    "summary": "Sam Taylor, owner · Unit 2, 25 Example Avenue, Footscray · 0491 570 156. Kitchen mixer tap drips into the sink; no flooding or leak underneath reported. Thursday after 2 pm preferred. Gate unlocked and driveway parking available. Plumber to call about availability, the call-out fee and parts before confirming a visit."
+  },
+  {
+    "id": "electrician",
+    "name": "Electrician",
+    "business": "Sample Electrical",
+    "request": "Office LED lighting quote",
+    "detail": "Lighting & site details · Address · Phone · Access & quote request",
+    "messages": [
+      [
+        "assistant",
+        "Thanks for calling Sample Electrical. I’m the AI receptionist. What can I help you with?"
+      ],
+      [
+        "caller",
+        "I’d like a quote to replace eight old lights in our office with LED fittings."
+      ],
+      [
+        "assistant",
+        "Of course. May I have your name, business name and the full address of the office?"
+      ],
+      [
+        "caller",
+        "It’s Jamie Lee, at Example Design. We’re at forty Example Road, Sunshine."
+      ],
+      [
+        "assistant",
+        "Thanks, Jamie. What’s the best phone number for the electrician to call you back?"
+      ],
+      [
+        "caller",
+        "Zero four nine one, five seven zero, one five seven."
+      ],
+      [
+        "assistant",
+        "That’s the number ending one five seven. Are the existing lights fluorescent fittings? Is this a routine upgrade or is there a fault?"
+      ],
+      [
+        "caller",
+        "They’re fluorescent. No faults, we just want brighter lights and lower power use. It’s a single-storey office with a standard ceiling."
+      ],
+      [
+        "assistant",
+        "Understood. Are you authorised to approve the work, and when could the electrician access the office?"
+      ],
+      [
+        "caller",
+        "Yes, I’m the office manager. A weekday after four would suit for an inspection. There’s parking behind the building."
+      ],
+      [
+        "assistant",
+        "I have eight lights at forty Example Road, Sunshine, with access after four. Would you prefer the installation during or outside business hours?"
+      ],
+      [
+        "caller",
+        "After hours would avoid disturbing the team. Please include that option in the quote, and call me before arranging anything."
+      ],
+      [
+        "assistant",
+        "Absolutely. I’ll pass on the lighting, access and after-hours preferences. The electrician will call to discuss an inspection and confirm the options, availability and pricing. Thanks, Jamie."
+      ]
+    ],
+    "summary": "Jamie Lee, office manager at Example Design · 40 Example Road, Sunshine · 0491 570 157. Quote for eight fluorescent-to-LED replacements in a single-storey office with a standard ceiling; routine upgrade, no fault reported. Weekday inspection after 4 pm preferred; rear parking available. After-hours installation option requested. Electrician to call before arranging an inspection or booking."
+  }
+]
