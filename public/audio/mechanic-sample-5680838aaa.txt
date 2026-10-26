@@ -1,0 +1,28 @@
+Swift AI Solutions — Sample Auto Workshop
+Fictional pre-recorded demonstration. No live call or booking.
+
+Swift AI: Thanks for calling Sample Auto Workshop. I’m the AI receptionist. How can I help?
+
+Sample caller: Hi, I’d like a logbook service and a brake check next Tuesday.
+
+Swift AI: Certainly. What’s your name, and the car’s make, model and year?
+
+Sample caller: I’m Alex Morgan. It’s a twenty nineteen Toyota Corolla, with eighty thousand kilometres.
+
+Swift AI: What have you noticed with the brakes? Are any warning lights on, and what’s the registration?
+
+Sample caller: They squeak a little. No warning lights. The registration is D E M O, zero one.
+
+Swift AI: Thanks. What’s your full address, including suburb, and your callback number?
+
+Sample caller: Twelve Example Street, St Albans. My number is zero four nine one, five seven zero, zero zero six.
+
+Swift AI: That’s twelve Example Street, St Albans, and the number ending zero zero six. Have I got that right?
+
+Sample caller: Yes, that’s right. Could I drop the car off around eight on Tuesday? I can leave it with you.
+
+Swift AI: I’ll note that preference. Would you like a text once the workshop confirms a time?
+
+Sample caller: Yes, please. And could they let me know the estimated cost before starting?
+
+Swift AI: Of course. I’ll pass on the service, brake check and drop-off request. The team will confirm availability and pricing before booking. Thanks, Alex.

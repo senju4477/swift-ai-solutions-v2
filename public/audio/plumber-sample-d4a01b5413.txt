@@ -1,0 +1,28 @@
+Swift AI Solutions — Sample Local Plumbing
+Fictional pre-recorded demonstration. No live call or booking.
+
+Swift AI: Thanks for calling Sample Local Plumbing. I’m the AI receptionist. How can I help today?
+
+Sample caller: Hi, our kitchen mixer tap keeps dripping. Could a plumber repair it this week?
+
+Swift AI: I can take the details. Is the water dripping into the sink or leaking underneath? Is there any flooding?
+
+Sample caller: It’s just dripping into the sink. There’s no flooding or leak underneath, and the other taps are fine.
+
+Swift AI: Understood. May I have your name and the full address where the work is needed?
+
+Sample caller: I’m Sam Taylor. It’s unit two, twenty-five Example Avenue, Footscray.
+
+Swift AI: Thank you. What’s the best phone number for the plumber to call you on?
+
+Sample caller: It’s zero four nine one, five seven zero, one five six.
+
+Swift AI: That’s unit two, twenty-five Example Avenue, Footscray, and the number ending one five six. Are you the owner, or is it a rental?
+
+Sample caller: I’m the owner. I can approve the repair. I’d prefer Thursday afternoon if someone is available.
+
+Swift AI: I’ll note Thursday afternoon. Are there any access restrictions, and is parking available?
+
+Sample caller: Any time after two is good. The gate will be unlocked, and there’s space in the driveway. Could they explain the call-out fee first?
+
+Swift AI: Certainly. I’ll pass on the tap repair and access details. The plumber will call to discuss availability, the call-out fee and any parts before confirming a visit. Thanks, Sam.

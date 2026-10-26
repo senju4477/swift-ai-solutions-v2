@@ -1,0 +1,28 @@
+Swift AI Solutions — Sample Electrical
+Fictional pre-recorded demonstration. No live call or booking.
+
+Swift AI: Thanks for calling Sample Electrical. I’m the AI receptionist. What can I help you with?
+
+Sample caller: I’d like a quote to replace eight old lights in our office with LED fittings.
+
+Swift AI: Of course. May I have your name, business name and the full address of the office?
+
+Sample caller: It’s Jamie Lee, at Example Design. We’re at forty Example Road, Sunshine.
+
+Swift AI: Thanks, Jamie. What’s the best phone number for the electrician to call you back?
+
+Sample caller: Zero four nine one, five seven zero, one five seven.
+
+Swift AI: That’s the number ending one five seven. Are the existing lights fluorescent fittings? Is this a routine upgrade or is there a fault?
+
+Sample caller: They’re fluorescent. No faults, we just want brighter lights and lower power use. It’s a single-storey office with a standard ceiling.
+
+Swift AI: Understood. Are you authorised to approve the work, and when could the electrician access the office?
+
+Sample caller: Yes, I’m the office manager. A weekday after four would suit for an inspection. There’s parking behind the building.
+
+Swift AI: I have eight lights at forty Example Road, Sunshine, with access after four. Would you prefer the installation during or outside business hours?
+
+Sample caller: After hours would avoid disturbing the team. Please include that option in the quote, and call me before arranging anything.
+
+Swift AI: Absolutely. I’ll pass on the lighting, access and after-hours preferences. The electrician will call to discuss an inspection and confirm the options, availability and pricing. Thanks, Jamie.
