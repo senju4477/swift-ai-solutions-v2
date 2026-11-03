@@ -3,6 +3,7 @@ const staticPreview = process.env.SWIFT_STATIC_EXPORT === '1' || process.env.SIT
 const nextConfig = {
   output: staticPreview ? 'export' : 'standalone',
   trailingSlash: true,
+  env: { NEXT_PUBLIC_ENQUIRY_DELIVERY: staticPreview ? 'false' : 'true' },
   poweredByHeader: false,
   images: { unoptimized: staticPreview },
 };
