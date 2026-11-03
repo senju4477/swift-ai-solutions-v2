@@ -35,9 +35,9 @@ Do not set `SWIFT_STATIC_EXPORT` or `SITES_MANAGED_LINUX_CONTAINER` on Hostinger
 
 ## Enquiry contact
 
-No verified Swift AI Solutions enquiry address has been supplied. Leave `NEXT_PUBLIC_CONTACT_EMAIL` empty until it is confirmed. The current form prepares a reviewable enquiry with the chosen plan and industry, plus copy/download actions; it does not send or store submissions.
+The verified recipient is `info@swiftaisolutions.com.au`. The normal Node.js build includes the `/api/enquiry/` SMTP handler. Set the server-side variables in `.env.example` in the Swift AI Solutions application's Hostinger environment. Enter `SMTP_PASSWORD` privately in Hostinger; do not commit it. The old `NEXT_PUBLIC_CONTACT_EMAIL` setting is not used by this sender.
 
-When a verified address is supplied, set `NEXT_PUBLIC_CONTACT_EMAIL` before building. This enables a visitor’s email application; the visitor still sends the email. Server-side enquiry delivery and live receptionist integrations are separate work.
+Deploy the updated GitHub source and lockfile, review the enquiry, then choose Send Enquiry. Confirm the marked test message arrives and that Reply targets the enquirer. Static review builds keep delivery disabled. Full setup and limitations are in [enquiry-email.md](enquiry-email.md).
 
 ## Local production check
 
