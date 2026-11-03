@@ -12,7 +12,7 @@ For the separate ChatGPT preview, SWIFT_STATIC_EXPORT=1 npm run build creates ou
 
 Approved redesign composition with exact logo; three preserved synthetic example calls and matching transcripts; compact industry controls; retained plan inclusions; Standard estimator; native accessible FAQ accordions; validated enquiry review/copy/download.
 
-The enquiry form is deliberately preview-only: no verified destination or authorised delivery configuration is available. It never reports an enquiry sent. No real calling, SMS, booking, dashboard or third-party service connection is activated by this preview.
+The Hostinger Node.js enquiry form keeps its review/copy/download flow and adds a Send Enquiry action. The server sends to info@swiftaisolutions.com.au using authenticated SMTP, with the enquirer as Reply-To. Set the runtime SMTP variables in `.env.example`, including the mailbox password privately in Hostinger, then redeploy. Success means SMTP acceptance; confirm inbox delivery with a marked test enquiry. Static review builds retain preview-only preparation. Calling, SMS, booking and customer dashboard integrations remain unchanged. See `docs/enquiry-email.md`.
 
 Pricing: Pilot A$299/month, Standard A$349/month, 450 minutes each; Standard additional minutes A$0.30; Enterprise custom. At 600 Standard minutes the estimate is A$394, before other agreed charges and taxes. No pilot setup fee. Other setup/usage/SMS/telephony/GST and billing conditions require confirmation.
 
